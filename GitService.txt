@@ -3,3 +3,9 @@ This file is created to push into the remote repository....
 Notes :
 
 Spring boot
+
+Languages:
+
+Java, SQL
+Java is for the mid-ware.
+SQL is for backend
