@@ -29,6 +29,8 @@ public class SpringBootFirstApplication {
 		int i = 1;
 		System.out.println(i);
 
+		//Added the line to check for "skipping the staging" concept
+
 	}
 
 }
