@@ -1,0 +1,1 @@
+The file is of type .md i.e., markdown file

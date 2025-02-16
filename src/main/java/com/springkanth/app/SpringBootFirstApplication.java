@@ -34,6 +34,8 @@ public class SpringBootFirstApplication {
 		//Learing the concept for git diff
 		//Learing the concept for git diff 2
 
+		//Learing the concept for git remove file
+
 	}
 
 }
