@@ -25,6 +25,10 @@ public class SpringBootFirstApplication {
 //		System.out.println(obj.getAge());
 //		obj.code();
 
+		//The below content is added only to understand the git course
+		int i = 1;
+		System.out.println(i);
+
 	}
 
 }
