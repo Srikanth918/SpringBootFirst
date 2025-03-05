@@ -4,5 +4,4 @@ This line is added in the part of learning for the "pushing the branch to the re
 
 "rebase concept is done......"
 
-"for more commits in rebase concepts"   
->>>>>>> rebaseConcept
+"for more commits in rebase concepts"
