@@ -1,0 +1,96 @@
+*   [33mcommit a7990a18abe20389356aaf8a1da859c92bad5db2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[31m|[m[32m\[m  Merge: 2edeefd 20690aa
+[31m|[m [32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[31m|[m [32m|[m Date:   Wed Mar 5 21:40:07 2025 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     mmm
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 20690aa584a9e1f9e757d11d5de02f09b016b8ce[m[33m ([m[1;32mrebaseConcept[m[33m)[m
+[31m|[m [32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[31m|[m [32m|[m Date:   Wed Mar 5 21:30:13 2025 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     rebase 2nd commit
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 5165602fe9fc552731b41cf20759aff80e0b65d1[m
+[31m|[m [32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[31m|[m [32m|[m Date:   Wed Mar 5 21:28:51 2025 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     rebase concept
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 2edeefdd87977d38f24fc04d65388366f4a6adee[m
+[32m|[m [32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m [32m|[m Date:   Wed Mar 5 21:38:56 2025 +0530
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     mmm
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit f8c176f962c6c1eeea3e3a511d46e249890c59c9[m
+[32m|[m[32m/[m  Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m   Date:   Wed Mar 5 21:31:43 2025 +0530
+[32m|[m   
+[32m|[m       rebase - main commint
+[32m|[m 
+* [33mcommit b638c3d1f172bfc8325b0c11040e11197b2736d7[m[33m ([m[1;31morigin/newBranch[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mnewBranch[m[33m)[m
+[32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m Date:   Wed Mar 5 20:47:59 2025 +0530
+[32m|[m 
+[32m|[m     push branch to remote repo
+[32m|[m 
+* [33mcommit cf094845c82c5d44503f11929fdb8f78a0c5ced3[m[33m ([m[1;32mlanguages[m[33m)[m
+[32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m Date:   Sun Feb 16 20:54:14 2025 +0530
+[32m|[m 
+[32m|[m     Elobarated about the mentioned languages
+[32m|[m 
+* [33mcommit fc4c5eb9271adb2fc119af14bf1d29864c6c9271[m[33m ([m[1;33mtag: [m[1;33mv1.1[m[33m)[m
+[32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m Date:   Sun Feb 16 20:16:32 2025 +0530
+[32m|[m 
+[32m|[m     Having the notes
+[32m|[m 
+* [33mcommit 01c2da3b35c36589306efbea2c3a81dbacd452c4[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+[32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m Date:   Sun Feb 16 19:32:05 2025 +0530
+[32m|[m 
+[32m|[m     git serive file is created to push it into the remote repository
+[32m|[m 
+* [33mcommit 486beb60243883ff2693bdaa45e0c24b562730d2[m
+[32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m Date:   Sun Feb 16 18:31:39 2025 +0530
+[32m|[m 
+[32m|[m     removed the credits file
+[32m|[m 
+* [33mcommit bed781ea5bc7a1d557cbecd587b87f9b5a8a9df6[m
+[32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m Date:   Sun Feb 16 18:28:54 2025 +0530
+[32m|[m 
+[32m|[m     Learing the concept for git remove file
+[32m|[m 
+* [33mcommit ff2d6c0aac2490c270ccb1603c1814f2070c7cc3[m
+[32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m Date:   Sun Feb 16 18:20:46 2025 +0530
+[32m|[m 
+[32m|[m     git diff is checked 2
+[32m|[m 
+* [33mcommit 78509645f1c7b18a238fa2d95415bcc9dae83244[m
+[32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m Date:   Sun Feb 16 18:13:56 2025 +0530
+[32m|[m 
+[32m|[m     git diff is checked
+[32m|[m 
+* [33mcommit a42464376b4fad272703ba29edffd575cddf7ef0[m
+[32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m Date:   Sun Feb 16 18:05:35 2025 +0530
+[32m|[m 
+[32m|[m     Skipping the staging
+[32m|[m 
+* [33mcommit e27e9483ac2ceca7d8e308381552cda819daf8b8[m
+[32m|[m Author: srikanth <srikanthbalaga99@gmail.com>
+[32m|[m Date:   Sun Feb 16 18:00:46 2025 +0530
+[32m|[m 
+[32m|[m     Added lines in the SpringBootFirstApplication.java file for learing the git course
+[32m|[m 
+* [33mcommit 63e0b3eb8b72d8f6737c3c6860f21c788ed5d619[m
+  Author: srikanth <srikanthbalaga99@gmail.com>
+  Date:   Sun Feb 16 17:48:06 2025 +0530
+  
+      Spring-Boot-First Base project is currently commited
